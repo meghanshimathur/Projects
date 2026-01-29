@@ -1,0 +1,16 @@
+1== open command prompt from the folder of project
+2== we have to go to .venv becayse we have useed (streamlit)
+    steps are --1-python -m venv .venv
+                   press enter
+                2-.venv\Scripts\activate
+                  press enter ypu will see .(.venv) PS D:\A.......(you file path)
+3== install reqiremnts.txt for nessecury libariy using (pip install -r requirements.txt)
+           if reqiremnt.txt is already install  then skip
+4= streamlit run app.py 
+    run this app.py is your file name
+5==(optional) if it ask email press enter
+ after few seconds it will pop up with your links
+
+Local URL: http://localhost:8501
+Network URL: http://192.168.0.143:8501
+
